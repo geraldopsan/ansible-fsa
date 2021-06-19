@@ -1,0 +1,10 @@
+{
+  "ssh_keys": [
+    {
+      "id": ID_DA_SUA_CHAVE_SSH,
+      "fingerprint": "2f:d0:16:6b",
+      "public_key": "ssh-rsa AAAAB3NzaC1yc2 example@example.local",
+      "name": "sannikay"
+    }
+  ],
+}
